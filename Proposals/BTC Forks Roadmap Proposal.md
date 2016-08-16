@@ -301,7 +301,7 @@ Contribute code or testing at [github.com/BTCfork](https://www.github.com/BTCfor
 
 Follow us on Twitter at [twitter.com/btcfork](https://www.twitter.com/btcfork)
 
-Join us on Telegram at @BTCFork
+Join us on Telegram at [@BTCFork](https://telegram.me/BTCFork)
 
 Join our Slack (automated invitation coming soon.)
 
