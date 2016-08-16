@@ -16,9 +16,7 @@
 11. FAQ
 12. Contribute
 
-——————————————————————————————————
-——————————————————————————————————
-
+---
 
 ###1. Introduction
 
@@ -30,9 +28,7 @@ Our mission is simple: to advance Bitcoin scaling while making a powerful statem
 
 The Bitcoin experiment has not failed. It's just getting started!
 
-——————————————————————————————————
-——————————————————————————————————
-
+---
 
 ###2. Goals of the Project
 
@@ -43,9 +39,7 @@ The Bitcoin experiment has not failed. It's just getting started!
 5. Improve network decentralisation.
 6. Improve development productivity.
 
-——————————————————————————————————
-——————————————————————————————————
-
+---
 
 ###3. Rough Schedule
 
@@ -58,9 +52,7 @@ Client release of final binaries, and establishment of exchange relationships ne
 **Months 6+ :**
 Support of the initial and any further forks through the creation of community resources for comparison, discussion, and decision making. We will faciliatate the overall Bitcoin governance process by encouraging sane forks, regardless of whether or not they are contentious. We will aim to provide the market with all resources and information necessary to make informed decisions.
 
-——————————————————————————————————
-——————————————————————————————————
-
+---
 
 ###4. Governance
 
@@ -74,7 +66,7 @@ A decentralised system works best when all its components are in [equilibrium](h
 
 Developers, miners, investors and nodes should all have equal influence in the system and should be keeping each other in check through their own selfish interests. Currently the bitcoin developers have the majority share of power in this system as they are advocating against freedom of choice. Numerous attacks from various angles have been made to stop participants from having the freedom to choose the software they run and fork from the network. Collusion between the miners and main developers of bitcoin has made it so that investors, nodes and users have only one option to voice opposition, and that is to leave the bitcoin economy entirely. This is a very ineffective way of signalling to the miners and developers that their needs are not being met, because new users may be joining all the time and may be replacing participants who have exited. If the bitcoin economy and it’s participants are given freedom of choice to choose which ever version of bitcoin suits their needs best then participants are far less likely to exit the ecosystem entirely and therefore the total market cap of bitcoin as a collection of systems is likely to rise (although some versions will fail and some will succeed).
 
-——————————————————————————————————
+---
 
 **Bitcoin Evolutionary Processes (BEP)**
 
@@ -110,7 +102,7 @@ This is any other code/feature that does not involve the lower consensus abstrac
 
 Forks of CAL3 type will happen often.
 
-——————————————————————————————————
+---
 
 **Accelerated Phylomemetic Tree Development**
 
@@ -137,8 +129,7 @@ Since it would be infeasible to create a prerequisite for elaboration of complet
 
 The community, incl. development teams, would be able to accompany an open development process through various levels of implementation maturity. In fact, the closer to deployment, the more public the process would need to be, to allow sufficient time for verification and validation. The end result would be solid requirements, traceable to design, which in turn would be traceable to code which should be suitably covered by tests, which the public could independently verify and validate.
 
-
-——————————————————————————————————
+---
 
 **Implementation Readiness Levels**
 
@@ -158,9 +149,7 @@ The following section outlines how the maturity of a proposal could be described
 			↓
 		IRL6 - System Test, Launch & Operations - Public test phase on test network of existing system, with clear test plan and quality gates to move to next phase: public test on main network. Public test on main network with clear warning that this is a TEST ("Monopoly money"), and should not be treated as actual currency by anyone. Active steps to minimize detrimental impacts on existing operational network (non-aggression principle). After final validation, production release, and move to operational maintenance.
 
-——————————————————————————————————
-——————————————————————————————————
-
+---
 
 ###5. The First Spinoff
 
@@ -178,9 +167,7 @@ The main goal of the first bitcoin spinoff will be to allow bitcoin to scale saf
 			↓
 	Launch MVF on Main-net
 
-——————————————————————————————————
-——————————————————————————————————
-
+---
 
 ###6. Future Objectives
 
@@ -188,19 +175,13 @@ The main goal of the first bitcoin spinoff will be to allow bitcoin to scale saf
 
 - Modularise the reference client so that the functions of being a node and submitting transaction are separate. This will allow easier development of clients with various features.
 
-
-
-——————————————————————————————————
-——————————————————————————————————
-
+---
 
 ###7. Support for Business Implementations
 
 Support for businesses wanting to implement a bitcoin spinoff. Forks designed with adequate documentation to make implementation by businesses easier.
 
-——————————————————————————————————
-——————————————————————————————————
-
+---
 
 ###8. Expenses & Funding
 
@@ -219,17 +200,13 @@ Support for businesses wanting to implement a bitcoin spinoff. Forks designed wi
 - Client transaction fees.
 - Create a Foundation
 
-——————————————————————————————————
-——————————————————————————————————
-
+---
 
 ###9. Decentralisation of Communication Channels
 
 One key failure within the bitcoin community in recent years has been the centralisation of information and information exchange. Knowledge is power and whoever controls the main communication channels can control the narrative right now.
 
-——————————————————————————————————
-——————————————————————————————————
-
+---
 
 ###10. Definitions
 
@@ -243,8 +220,7 @@ It should be made clear that there is no such thing as an ‘official’ definit
 
 **Altcoin** - A cryptocurrency that starts with it’s own genesis block.
 
-——————————————————————————————————
-——————————————————————————————————
+---
 
 ###11. FAQ
 
@@ -284,9 +260,7 @@ We believe deploying critical protocol changes through soft forks is an inherent
 
 A hard fork is hard but necessary. After the first fork is executed, we expect the ecosystem of tools surrounding the management of forks to become increasingly robust, supporting future forks in a far more seamless and low-effort fashion.
 
-——————————————————————————————————
-——————————————————————————————————
-
+---
 
 ###12. Contribute
 
