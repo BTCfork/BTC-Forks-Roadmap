@@ -293,7 +293,7 @@ A hard fork is hard but necessary. After the first fork is executed, we expect t
 
 Calling all devs and non-devs alike: Help us bring Bitcoin to the world!
 
-Start the conversation on reddit at [www.reddit.com/r/btcfork](https://www.reddit.com/r/btcfork)
+Start the conversation on reddit at [reddit.com/r/btcfork](https://www.reddit.com/r/btcfork)
 
 Vote on BTC Fork Constitution and features at [btcfork.consider.it](https://www.btcfork.consider.it)
 
@@ -304,6 +304,3 @@ Follow us on Twitter at [twitter.com/btcfork](https://www.twitter.com/btcfork)
 Join us on Telegram at @BTCFork
 
 Join our Slack (automated invitation coming soon.)
-
-
-
