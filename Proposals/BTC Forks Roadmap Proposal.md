@@ -156,7 +156,7 @@ The following section outlines how the maturity of a proposal could be described
 			↓
 		IRL5 - System/Subsystem Development - Develop a public fork/spin-off system based on an existing production system (which could be a previous spin-off) by producing a delta of system/subsystem requirements and associated design, implementation, tests and verification results
 			↓
-		IRL6 - System Test, Launch & Operations - Public test phase on test network of existing system, with clear test plan and quality gates to move to next phase: public test on main network. Public test on main network with clear warning that this is a test (equivalent to "MONOPOLY money"), and should not be treated as actual currency by anyone. Active steps to minimize detrimental impacts on the existing operational network (non-aggression principle). After final validation, production release, and move to operational maintenance.
+		IRL6 - System Test, Launch & Operations - Public test phase on test network of existing system, with clear test plan and quality gates to move to next phase: public test on main network. Public test on main network with clear warning that this is a test ("play money"), and should not be treated as actual currency by anyone. Active steps to minimize detrimental impacts on the existing operational network (non-aggression principle). After final validation, production release, and move to operational maintenance.
 
 ——————————————————————————————————
 ——————————————————————————————————
