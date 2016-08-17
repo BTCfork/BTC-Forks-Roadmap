@@ -151,7 +151,7 @@ The following section outlines how the maturity of a proposal could be described
 
 ###5. The First Spinoff
 
-The main goal of the first bitcoin spinoff will be to allow bitcoin to scale safely and facilitate the development of a process for further spinoffs.
+The main goal of the first bitcoin spinoff will be to allow bitcoin to scale safely and facilitate the development of a process for further spinoffs. The aims of this project are not to support any particular fork but the first fork is of particular importance because it will lay the ground work for others in the future and will show that hardforking bitcoin in this way is possible.
 
 	Create final specification of MVF (Minimum Viable Fork)
 			↓
