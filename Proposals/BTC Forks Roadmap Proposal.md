@@ -177,13 +177,35 @@ The main goal of the first bitcoin spinoff will be to allow bitcoin to scale saf
 
 ---
 
-###7. Support for Business Implementations
+###7. Risks
+
+**Attacks**
+
+- DDOS attacks against nodes.
+- DDOS attacks against exchanges.
+- Social attacks.
+- Legal attacks.
+- Spam attacks.
+- Blockchain bloat attacks.
+- 51% attacks.
+- Empty block attacks.
+
+**Lack of Support**
+
+- Lack of support from users, miners, investors, businesses, developers, exchanges.
+
+**Bugs**
+
+- Obviously every effort will be put towards making sure any software that is released for use but every software has a risk of having bugs in the code. Bugs could range anywhere between minor to major.
+
+
+###8. Support for Business Implementations
 
 Support for businesses wanting to implement a bitcoin spinoff. Forks designed with adequate documentation to make implementation by businesses easier.
 
 ---
 
-###8. Expenses & Funding
+###9. Expenses & Funding
 
 
 #####Project Expenses
@@ -202,13 +224,13 @@ Support for businesses wanting to implement a bitcoin spinoff. Forks designed wi
 
 ---
 
-###9. Decentralisation of Communication Channels
+###10. Decentralisation of Communication Channels
 
 One key failure within the bitcoin community in recent years has been the centralisation of information and information exchange. Knowledge is power and whoever controls the main communication channels can control the narrative right now.
 
 ---
 
-###10. Definitions
+###11. Definitions
 
 It should be made clear that there is no such thing as an ‘official’ definition. These definitions are the ones that we feel are most logical and representative.
 
@@ -222,7 +244,7 @@ It should be made clear that there is no such thing as an ‘official’ definit
 
 ---
 
-###11. FAQ
+###12. FAQ
 
 Have any other questions about our project? Ask on our subreddit.
 
@@ -262,7 +284,7 @@ A hard fork is hard but necessary. After the first fork is executed, we expect t
 
 ---
 
-###12. Contribute
+###13. Contribute
 
 
 Calling all devs and non-devs alike: Help us bring Bitcoin to the world!
