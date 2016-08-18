@@ -56,6 +56,8 @@ Support of the initial and any further forks through the creation of community r
 
 ###4. Governance
 
+**Summary**
+
 Bitcoin in its essence is a social system. A way of arranging the interactions between people. This means a number of problems that it faces right now cannot be solved with code alone.
 
 Development of bitcoin through an evolutionary process will allow the best ideas to succeed and the worst ideas to fail. Allowing people to freely chose which version of a cryptocurrency they want to use is key to making this happen. Participants currently have only one choice if they disagree strongly with the current development; exit bitcoin completely. It is far too binary as it means price is only a reasonably good signal in the long-term, at which point it may already be too late to fix any problems. Giving participants a choice to support another 'version' of bitcoin is creating a very direct short-term and long-term signal of what the best approach is.
@@ -73,32 +75,15 @@ Turning bitcoin development into an evolutionary system where progress is market
 
 **Consensus Abstraction Layers (CAL)**
 
-The consensus abstraction layers are a way of assessing and tracking changes to a cryptocurrency. These changes may be the general principles that the participants follow, the consensus logic that the network follows or specific changes in the code of an implementation. Use of the consensus abstraction layers will allow participants to hold other participants to account within the ecosystem and will reinforce the ability for users to consent to the network(s) they are using. If an implementation/code change is made that is not inline with the current abstraction layers of that cryptocurrency then this implementation is considered to be forked and the type of fork is dictated by the CAL that the fork has taken place on.
+The consensus abstraction layers are a way of assessing and tracking changes to a cryptocurrency made by developers. These changes may be the general principles that the participants follow, the consensus logic that the network follows or specific changes in the code of an implementation. Use of the consensus abstraction layers will allow participants to hold other participants to account within the ecosystem and will reinforce the ability for users to consent to the network(s) they are using. If an implementation/code change is made that is not inline with the current abstraction layers of that cryptocurrency then this implementation is considered to be forked and the type of fork is dictated by the CAL that the fork has taken place on.
 
 
 		CAL0 - Freedom of Choice
-
-This layer represents the absolute fundamental principle of cryptocurrencies and their forks. Freedom of choice. People should be free to chose any cryptocurrency, or version of a cryptocurrency, that they want to, without coercion or force. 
-
-Forks of CAL0 type should never happen.
-
 		CAL1 - Constitutional Principles
-
-These are the guiding principles of a cryptocurrency/spinoff. These are held above the code and must be adhered to by anyone participating in that cryptocurrency. If the constitutional principles are deviated from then a fork at CAL1 has occurred and new constitutional principles should be written that accommodate the new path forward. A new forked software should also be released with these new constitutional principles. Participants of the original constitutional principles must be allowed to continue on their side of the fork if they wish. Constitutional principles should be strongly worded to afford as little ambiguity as possible. The constitutional principles of a cryptocurrency or version of a cryptocurrency should be self-reinforcing as all participants must hold all other participants to account. 
-
-Forks of CAL1 type will happen very rarely.
-
 		CAL2 - Consensus Logic
-
-This is the logic/code that each node in the network must abide by. If a node does not abide by this logic they will be forked by the network. The specific code is able to be changed without a fork occurring as long as the logic stays the same. 
-
-Forks of CAL2 type will happen sometimes but not very often.
-
 		CAL3 - Everything Else
 
-This is any other code/feature that does not involve the lower consensus abstraction layers (CAL1,2,3). This is the layer that will most often be used to fix bugs and add features to the software/protocol. Changes to anything on this layer does not require consensus but of course consensus is always beneficial. 
-
-Forks of CAL3 type will happen often.
+[PLACEHOLDER LINK]()
 
 ---
 
