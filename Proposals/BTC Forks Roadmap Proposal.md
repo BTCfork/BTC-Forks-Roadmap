@@ -1,22 +1,34 @@
 
-##BTC Forks Roadmap 
+#BTC Forks Roadmap
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-###Contents
+###0. Contents
 
+0. Contents
 1. Introduction
 2. Goals of the Project
 3. Rough Schedule
 4. Governance
+  1. Summary
+  2. Bitcoin Evolutionary Process (BEP)
+  3. Consensus Abstraction Layers (CAL)
+  4. Accelerated Phylomemetic Tree Development
+  5. Implementation Readiness Levels
 5. The First Spinoff
 6. Future Objectives
-7. Support for Business Implementations
-8. Expenses and Funding
-9. Decentralisation of Communication Channels
-10. Definitions
-11. FAQ
-12. Contribute
+7. Risks
+  1. Attacks
+  2. Lack of Support
+  3. Bugs
+8. Support for Business Implementations
+9. Expenses and Funding
+  1. Project Expenses
+  2. Project Funding Ideas
+10. Decentralisation of Communication Channels
+11. Definitions
+12. FAQ
+13. Contribute
 
 ---
 
@@ -58,6 +70,8 @@ Support of the initial and any further forks through the creation of community r
 
 ###4. Governance
 
+**4.i. Summary**
+
 Bitcoin in its essence is a social system. A way of arranging the interactions between people. This means a number of problems that it faces right now cannot be solved with code alone.
 
 Development of bitcoin through an evolutionary process will allow the best ideas to succeed and the worst ideas to fail. Allowing people to freely chose which version of a cryptocurrency they want to use is key to making this happen. Participants currently have only one choice if they disagree strongly with the current development; exit bitcoin completely. It is far too binary as it means price is only a reasonably good signal in the long-term, at which point it may already be too late to fix any problems. Giving participants a choice to support another 'version' of bitcoin is creating a very direct short-term and long-term signal of what the best approach is.
@@ -68,70 +82,53 @@ Developers, miners, investors and nodes should all keep each other in check thro
 
 ---
 
-**Bitcoin Evolutionary Processes (BEP)**
+**4.ii. Bitcoin Evolutionary Processes (BEP)**
 
 Turning bitcoin development into an evolutionary system where progress is market driven rather than driven by a select few ‘official’ developers. The bitcoin evolutionary process is made up of three parts. The first part is the **Consensus Abstraction Layers**. The second part is the **Accelerated Phylomemetic Tree Development**. The third part is the **Implementation Readiness Levels**. Each part is designed to solve a different problem in bitcoin currently.
 
 
-**Consensus Abstraction Layers (CAL)**
+**4.iii. Consensus Abstraction Layers (CAL)**
 
-The consensus abstraction layers are a way of assessing and tracking changes to a cryptocurrency. These changes may be the general principles that the participants follow, the consensus logic that the network follows or specific changes in the code of an implementation. Use of the consensus abstraction layers will allow participants to hold other participants to account within the ecosystem and will reinforce the ability for users to consent to the network(s) they are using. If an implementation/code change is made that is not inline with the current abstraction layers of that cryptocurrency then this implementation is considered to be forked and the type of fork is dictated by the CAL that the fork has taken place on.
-
+The consensus abstraction layers are a way of assessing and tracking changes to a cryptocurrency made by developers. These changes may be the general principles that the participants follow, the consensus logic that the network follows or specific changes in the code of an implementation. Use of the consensus abstraction layers will allow participants to hold other participants to account within the ecosystem and will reinforce the ability for users to consent to the network(s) they are using. If an implementation/code change is made that is not inline with the current abstraction layers of that cryptocurrency then this implementation is considered to be forked and the type of fork is dictated by the CAL that the fork has taken place on.
 
 		CAL0 - Freedom of Choice
-
-This layer represents the absolute fundamental principle of cryptocurrencies and their forks. Freedom of choice. People should be free to chose any cryptocurrency, or version of a cryptocurrency, that they want to, without coercion or force. 
-
-Forks of CAL0 type should never happen.
-
 		CAL1 - Constitutional Principles
-
-These are the guiding principles of a cryptocurrency/spinoff. These are held above the code and must be adhered to by anyone participating in that cryptocurrency. If the constitutional principles are deviated from then a fork at CAL1 has occurred and new constitutional principles should be written that accommodate the new path forward. A new forked software should also be released with these new constitutional principles. Participants of the original constitutional principles must be allowed to continue on their side of the fork if they wish. Constitutional principles should be strongly worded to afford as little ambiguity as possible. The constitutional principles of a cryptocurrency or version of a cryptocurrency should be self-reinforcing as all participants must hold all other participants to account. 
-
-Forks of CAL1 type will happen very rarely.
-
 		CAL2 - Consensus Logic
-
-This is the logic/code that each node in the network must abide by. If a node does not abide by this logic they will be forked by the network. The specific code is able to be changed without a fork occurring as long as the logic stays the same. 
-
-Forks of CAL2 type will happen sometimes but not very often.
-
 		CAL3 - Everything Else
 
-This is any other code/feature that does not involve the lower consensus abstraction layers (CAL1,2,3). This is the layer that will most often be used to fix bugs and add features to the software/protocol. Changes to anything on this layer does not require consensus but of course consensus is always beneficial. 
 
-Forks of CAL3 type will happen often.
+[PLACEHOLDER LINK]()
 
 ---
 
-**Accelerated Phylomemetic Tree Development**
+**4.iv. Accelerated Concept Development**
 
-The Accelerated Phylomemetic Tree Development system aims to achieve the goal of improving development productivity in a traceable, open and collaborative way.
+The Accelerated Concept Development system aims to achieve the goal of improving development productivity in a traceable, open and collaborative way.
 
-Full phylomemetic tree development of Bitcoin would encompass all the artefacts produced during the software development lifecycle, from requirement specifications through design and further on to the code that is released and can be run to take part in the Bitcoin protocol. At first glance, it seems impractical to try to consolidate all of Bitcoin’s development into a centralized repository containing all this information, especially all the divergent code bases.
+Full concept development of Bitcoin would encompass all the artefacts produced during the software development lifecycle, from requirement specifications through design and further on to the released code.
 
-We propose an “accelerated” development tree model (based on the branching features of modern distributed version control systems) to help the community evolve Bitcoin change proposals in terms that are more generally accessible than specific source code:
+We propose an “accelerated” development tree model (based on the branching features of modern distributed version control systems) to help the community produce Bitcoin Evolutionary Proposals in terms that are more generally accessible than specific source code. The two basic parts of this are:
 
 - Requirements
 - Design
 
-Even a phylomemetic tree must have its root somewhere, and since there is a lack of formally specified requirements or design, there is no “one baseline” at present from which to start.
+Since there is currently a lack of formally specified requirements or design for bitcoin, there is no “one baseline” at present from which to start.
 
 Nevertheless, it seems that such a tree-based evolution process could be applied from a later starting point as long as there is an initial motive. For example, one could set up a repository for a tree to develop various fork proposals. These proposals could be represented by requirements + design changes to the existing consensus. The process would start from a “root node” representing the status quo (no requirements + design changes), and would split into branches as participants introduce ideas which are incompatible with the concepts at a particular tree node. Participants would need to formulate their ideas not vaguely, but in terms of actual requirements and design. The community would discuss these proposals and refine them using the collaborative features of the version control system. Arguments and counterarguments would end up being stored in this tree structure along with the branches containing the evolving ideas. The end result would resemble Decision Trees or Classification Trees which can be used by later generations to inspect and understand the rationale which lead to certain requirements and design decisions.
 
-Once some points in this tree have reached sufficient maturity in terms of completeness and consistency, development teams might decide to 'adopt' them and see them through to implementation and release (on various Bitcoin client platforms). In this sense it is perhaps better if there is no strong linkage between the conceptual layers of requirements+design and that of actual implementation (source code), since competing teams might decide to implement a concept independently even on the same codebase (a process sometimes used in safety critical software projects to protect against common mode failures). The teams could “tag” the nodes in the phylomemetic tree which correspond to the requirements & design which they are targeting, making it possible to have an overview of Bitcoin evolution as a whole.
+Once some points in this tree have reached sufficient maturity in terms of completeness and consistency, development teams might decide to 'adopt' them and see them through to implementation and release. The teams could “tag” the nodes in the concept tree which correspond to the requirements & design which they are targeting, making it possible to have an overview of Bitcoin evolution as a whole.
 
 Proposed requirements and design elements should be formulated according to engineering best practices, i.e. they should strive to be complete, consistent, traceable, verifiable etc.
 [https://zolotarev.fd.cvut.cz/ma/ctrl.php?act=show,file,9727](https://zolotarev.fd.cvut.cz/ma/ctrl.php?act=show,file,9727)
 [http://www.win.tue.nl/~wstomv/edu/2ip30/references/smart-requirements.pdf](http://www.win.tue.nl/~wstomv/edu/2ip30/references/smart-requirements.pdf)
 
-Since it would be infeasible to create a prerequisite for elaboration of complete, consistent requirements and design of the existing system (a moving target), we propose that changes can be specified in isolation and discussed by experts based on their body of knowledge of various implementations and use cases. In this way, the phylomemetic tree would evolve partial specifications which are consistent in themselves, and could later be integrated to form a more complete specification picture of the entire system.
+Since it would be infeasible to create a prerequisite for elaboration of complete, consistent requirements and design of the existing system (a moving target), we propose that changes can be specified in isolation and discussed by experts based on their body of knowledge of various implementations and use cases. In this way, the concept tree would evolve partial specifications which are consistent in themselves, and could later be integrated to form a more complete specification picture of the entire system.
 
 The community, incl. development teams, would be able to accompany an open development process through various levels of implementation maturity. In fact, the closer to deployment, the more public the process would need to be, to allow sufficient time for verification and validation. The end result would be solid requirements, traceable to design, which in turn would be traceable to code which should be suitably covered by tests, which the public could independently verify and validate.
 
 ---
 
-**Implementation Readiness Levels**
+**4.v. Implementation Readiness Levels**
 
 [http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html](http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html)
 
@@ -171,15 +168,15 @@ The main goal of the first bitcoin spinoff will be to allow bitcoin to scale saf
 
 ###6. Future Objectives
 
-- Create a Bitcoin implementation written from scratch to clean the code up and function as the new reference client.  An effort could be made parallel to the actual phylomemetic evolution of Bitcoin to try to “catch up” in terms of documenting existing requirements and design, by integrating these dispersed parts of the tree, or alternatively, attempting to construct a clean formal specification of the system from scratch based on the inputs and knowledge that the phylomemetic process has delivered.
+1. Create a Bitcoin implementation written from scratch to clean the code up and function as the new reference client.  An effort could be made parallel to the actual phylomemetic evolution of Bitcoin to try to “catch up” in terms of documenting existing requirements and design, by integrating these dispersed parts of the tree, or alternatively, attempting to construct a clean formal specification of the system from scratch based on the inputs and knowledge that the phylomemetic process has delivered.
 
-- Modularise the reference client so that the functions of being a node and submitting transaction are separate. This will allow easier development of clients with various features.
+2. Modularise the reference client so that the functions of being a node and submitting transaction are separate. This will allow easier development of clients with various features.
 
 ---
 
 ###7. Risks
 
-**Attacks**
+**7.i. Attacks**
 
 - DDOS attacks against nodes.
 - DDOS attacks against exchanges.
@@ -190,11 +187,11 @@ The main goal of the first bitcoin spinoff will be to allow bitcoin to scale saf
 - 51% attacks.
 - Empty block attacks.
 
-**Lack of Support**
+**7.ii. Lack of Support**
 
 - Lack of support from users, miners, investors, businesses, developers, exchanges.
 
-**Bugs**
+**7.iii. Bugs**
 
 - Obviously every effort will be put towards making sure any software that is released for use but every software has a risk of having bugs in the code. Bugs could range anywhere between minor to major.
 
@@ -208,7 +205,7 @@ Support for businesses wanting to implement a bitcoin spinoff. Forks designed wi
 ###9. Expenses & Funding
 
 
-#####Project Expenses
+#####9.i. Project Expenses
 
 - Dev funding
 - Slack
@@ -216,7 +213,7 @@ Support for businesses wanting to implement a bitcoin spinoff. Forks designed wi
 - Education Material
 
 
-#####Project Funding Ideas
+#####9.ii. Project Funding Ideas
 
 - Donations
 - Client transaction fees.
