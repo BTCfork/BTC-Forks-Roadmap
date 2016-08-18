@@ -3,20 +3,32 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-###Contents
+###0. Contents
 
+0. Contents
 1. Introduction
 2. Goals of the Project
 3. Rough Schedule
 4. Governance
+  1. Summary
+  2. Bitcoin Evolutionary Process (BEP)
+  3. Consensus Abstraction Layers (CAL)
+  4. Accelerated Phylomemetic Tree Development
+  5. Implementation Readiness Levels
 5. The First Spinoff
 6. Future Objectives
-7. Support for Business Implementations
-8. Expenses and Funding
-9. Decentralisation of Communication Channels
-10. Definitions
-11. FAQ
-12. Contribute
+7. Risks
+  1. Attacks
+  2. Lack of Support
+  3. Bugs
+8. Support for Business Implementations
+9. Expenses and Funding
+  1. Project Expenses
+  2. Project Funding Ideas
+10. Decentralisation of Communication Channels
+11. Definitions
+12. FAQ
+13. Contribute
 
 ---
 
@@ -58,6 +70,8 @@ Support of the initial and any further forks through the creation of community r
 
 ###4. Governance
 
+**4.i. Summary**
+
 Bitcoin in its essence is a social system. A way of arranging the interactions between people. This means a number of problems that it faces right now cannot be solved with code alone.
 
 Development of bitcoin through an evolutionary process will allow the best ideas to succeed and the worst ideas to fail. Allowing people to freely chose which version of a cryptocurrency they want to use is key to making this happen. Participants currently have only one choice if they disagree strongly with the current development; exit bitcoin completely. It is far too binary as it means price is only a reasonably good signal in the long-term, at which point it may already be too late to fix any problems. Giving participants a choice to support another 'version' of bitcoin is creating a very direct short-term and long-term signal of what the best approach is.
@@ -68,12 +82,12 @@ Developers, miners, investors and nodes should all keep each other in check thro
 
 ---
 
-**Bitcoin Evolutionary Processes (BEP)**
+**4.ii. Bitcoin Evolutionary Processes (BEP)**
 
 Turning bitcoin development into an evolutionary system where progress is market driven rather than driven by a select few ‘official’ developers. The bitcoin evolutionary process is made up of three parts. The first part is the **Consensus Abstraction Layers**. The second part is the **Accelerated Phylomemetic Tree Development**. The third part is the **Implementation Readiness Levels**. Each part is designed to solve a different problem in bitcoin currently.
 
 
-**Consensus Abstraction Layers (CAL)**
+**4.iii. Consensus Abstraction Layers (CAL)**
 
 The consensus abstraction layers are a way of assessing and tracking changes to a cryptocurrency. These changes may be the general principles that the participants follow, the consensus logic that the network follows or specific changes in the code of an implementation. Use of the consensus abstraction layers will allow participants to hold other participants to account within the ecosystem and will reinforce the ability for users to consent to the network(s) they are using. If an implementation/code change is made that is not inline with the current abstraction layers of that cryptocurrency then this implementation is considered to be forked and the type of fork is dictated by the CAL that the fork has taken place on.
 
@@ -104,7 +118,7 @@ Forks of CAL3 type will happen often.
 
 ---
 
-**Accelerated Phylomemetic Tree Development**
+**4.iv. Accelerated Phylomemetic Tree Development**
 
 The Accelerated Phylomemetic Tree Development system aims to achieve the goal of improving development productivity in a traceable, open and collaborative way.
 
@@ -131,7 +145,7 @@ The community, incl. development teams, would be able to accompany an open devel
 
 ---
 
-**Implementation Readiness Levels**
+**4.v. Implementation Readiness Levels**
 
 [http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html](http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html)
 
@@ -179,7 +193,7 @@ The main goal of the first bitcoin spinoff will be to allow bitcoin to scale saf
 
 ###7. Risks
 
-**Attacks**
+**7.i. Attacks**
 
 - DDOS attacks against nodes.
 - DDOS attacks against exchanges.
@@ -190,11 +204,11 @@ The main goal of the first bitcoin spinoff will be to allow bitcoin to scale saf
 - 51% attacks.
 - Empty block attacks.
 
-**Lack of Support**
+**7.ii. Lack of Support**
 
 - Lack of support from users, miners, investors, businesses, developers, exchanges.
 
-**Bugs**
+**7.iii. Bugs**
 
 - Obviously every effort will be put towards making sure any software that is released for use but every software has a risk of having bugs in the code. Bugs could range anywhere between minor to major.
 
@@ -208,7 +222,7 @@ Support for businesses wanting to implement a bitcoin spinoff. Forks designed wi
 ###9. Expenses & Funding
 
 
-#####Project Expenses
+#####9.i. Project Expenses
 
 - Dev funding
 - Slack
@@ -216,7 +230,7 @@ Support for businesses wanting to implement a bitcoin spinoff. Forks designed wi
 - Education Material
 
 
-#####Project Funding Ideas
+#####9.ii. Project Funding Ideas
 
 - Donations
 - Client transaction fees.
