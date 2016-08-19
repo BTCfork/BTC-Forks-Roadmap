@@ -15,7 +15,7 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
   1. Summary
   2. Bitcoin Evolutionary Process (BEP)
   3. Consensus Abstraction Layers (CAL)
-  4. Accelerated Phylomemetic Tree Development
+  4. Accelerated Concept Development
   5. Implementation Readiness Levels
 6. [The First Spinoff](#6-the-first-spinoff)
   1. Goals
