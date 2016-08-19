@@ -16,6 +16,9 @@
   4. Accelerated Phylomemetic Tree Development
   5. Implementation Readiness Levels
 5. The First Spinoff
+  1. Goals
+  2. Process to Launch
+  3. Checklist of Things to Achieve before a Successful Fork Can Occur
 6. Future Objectives
 7. Risks
   1. Attacks
@@ -150,7 +153,11 @@ The following section outlines how the maturity of a proposal could be described
 
 ###5. The First Spinoff
 
+**5.i. Goals**
+
 The main goal of the first bitcoin spinoff will be to allow bitcoin to scale safely and facilitate the development of a process for further spinoffs. The aims of this project are not to support any particular fork but the first fork is of particular importance because it will lay the ground work for others in the future and will show that hardforking bitcoin in this way is possible.
+
+**5.ii. Process to Launch**
 
 	Create final specification of MVF (Minimum Viable Fork)
 			↓
@@ -163,6 +170,14 @@ The main goal of the first bitcoin spinoff will be to allow bitcoin to scale saf
 	Run Hidden MVF on Main-net
 			↓
 	Launch MVF on Main-net
+	
+**5.iii. Checklist of Things to Achieve before a Successful Fork Can Occur
+
+- Have at least one exchange available.
+- Have at least one desktop wallet available (will likely be in the client).
+- Have at least one SPV mobile wallet available.
+- Have at least 3 mining pools available.
+- Have at least 1000 distributed nodes active on the network.
 
 ---
 
