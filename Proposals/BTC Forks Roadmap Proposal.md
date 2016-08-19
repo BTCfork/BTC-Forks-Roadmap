@@ -171,7 +171,7 @@ The main goal of the first bitcoin spinoff will be to allow bitcoin to scale saf
 			↓
 	Launch MVF on Main-net
 	
-**5.iii. Checklist of Things to Achieve before a Successful Fork Can Occur
+**5.iii. Checklist of Things to Achieve before a Successful Fork Can Occur**
 
 - Have at least one exchange available.
 - Have at least one desktop wallet available (will likely be in the client).
