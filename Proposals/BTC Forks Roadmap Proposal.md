@@ -5,39 +5,39 @@
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
-###0. Contents
+###1. Contents
 
-0. Contents
-1. Introduction
-2. Goals of the Project
-3. Rough Schedule
-4. Governance
+1. [Contents](#contents)
+2. [Introduction](#introduction)
+3. Goals of the Project
+4. Rough Schedule
+5. Governance
   1. Summary
   2. Bitcoin Evolutionary Process (BEP)
   3. Consensus Abstraction Layers (CAL)
   4. Accelerated Phylomemetic Tree Development
   5. Implementation Readiness Levels
-5. The First Spinoff
+6. The First Spinoff
   1. Goals
   2. Process to Launch
   3. Checklist of Things to Achieve before a Successful Fork Can Occur
-6. Future Objectives
-7. Risks
+7. Future Objectives
+8. Risks
   1. Attacks
   2. Lack of Support
   3. Bugs
-8. Support for Business Implementations
-9. Expenses and Funding
+9. Support for Business Implementations
+10. Expenses and Funding
   1. Project Expenses
   2. Project Funding Ideas
-10. Decentralisation of Communication Channels
-11. Definitions
-12. FAQ
-13. Contribute
+11. Decentralisation of Communication Channels
+12. Definitions
+13. FAQ
+14. Contribute
 
 ---
 
-###1. Introduction
+###2. Introduction
 
 We are forking Bitcoin.
 
@@ -49,7 +49,7 @@ The Bitcoin experiment has not failed. It is only just getting started!!
 
 ---
 
-###2. Goals of the Project
+###3. Goals of the Project
 
 1. Give users and market freedom of choice.
 2. Allow bitcoin to scale.
@@ -60,7 +60,7 @@ The Bitcoin experiment has not failed. It is only just getting started!!
 
 ---
 
-###3. Rough Schedule
+###4. Rough Schedule
 
 **Months 1-3 :** 
 Community development, establishment of necessary channels, build, and testing infrastructure, and community release of several proposed forks (including multiple client bases and PoW implementations). Our goal is to create a collaborative environment in which forks can be proposed, tested, evaluated, and deployed by the community and marketplace. We will research key challenges, like PoW changes, difficulty adjustment, script limits, and effects of blocksize cap through tests on our public test network.
@@ -73,9 +73,9 @@ Support of the initial and any further forks through the creation of community r
 
 ---
 
-###4. Governance
+###5. Governance
 
-**4.i. Summary**
+**5.i. Summary**
 
 Bitcoin in its essence is a social system. A way of arranging the interactions between people. This means a number of problems that it faces right now cannot be solved with code alone.
 
@@ -87,12 +87,12 @@ Developers, miners, investors and nodes should all keep each other in check thro
 
 ---
 
-**4.ii. Bitcoin Evolutionary Processes (BEP)**
+**5.ii. Bitcoin Evolutionary Processes (BEP)**
 
 Turning bitcoin development into an evolutionary system where progress is market driven rather than driven by a select few ‘official’ developers. The bitcoin evolutionary process is made up of three parts. The first part is the **Consensus Abstraction Layers**. The second part is the **Accelerated Phylomemetic Tree Development**. The third part is the **Implementation Readiness Levels**. Each part is designed to solve a different problem in bitcoin currently.
 
 
-**4.iii. Consensus Abstraction Layers (CAL)**
+**5.iii. Consensus Abstraction Layers (CAL)**
 
 The consensus abstraction layers are a way of assessing and tracking changes to a cryptocurrency made by developers. These changes may be the general principles that the participants follow, the consensus logic that the network follows or specific changes in the code of an implementation. Use of the consensus abstraction layers will allow participants to hold other participants to account within the ecosystem and will reinforce the ability for users to consent to the network(s) they are using. If an implementation/code change is made that is not inline with the current abstraction layers of that cryptocurrency then this implementation is considered to be forked and the type of fork is dictated by the CAL that the fork has taken place on.
 
@@ -106,7 +106,7 @@ The consensus abstraction layers are a way of assessing and tracking changes to 
 
 ---
 
-**4.iv. Accelerated Concept Development**
+**5.iv. Accelerated Concept Development**
 
 The Accelerated Concept Development system aims to achieve the goal of improving development productivity in a traceable, open and collaborative way.
 
@@ -133,7 +133,7 @@ The community, incl. development teams, would be able to accompany an open devel
 
 ---
 
-**4.v. Implementation Readiness Levels**
+**5.v. Implementation Readiness Levels**
 
 [http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html](http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html)
 
@@ -153,13 +153,13 @@ The following section outlines how the maturity of a proposal could be described
 
 ---
 
-###5. The First Spinoff
+###6. The First Spinoff
 
-**5.i. Goals**
+**6.i. Goals**
 
 The main goal of the first bitcoin spinoff will be to allow bitcoin to scale safely and facilitate the development of a process for further spinoffs. The aims of this project are not to support any particular fork but the first fork is of particular importance because it will lay the ground work for others in the future and will show that hardforking bitcoin in this way is possible.
 
-**5.ii. Process to Launch**
+**6.ii. Process to Launch**
 
 	Create final specification of MVF (Minimum Viable Fork)
 			↓
@@ -173,7 +173,7 @@ The main goal of the first bitcoin spinoff will be to allow bitcoin to scale saf
 			↓
 	Launch MVF on Main-net
 	
-**5.iii. Checklist of Things to Achieve before a Successful Fork Can Occur**
+**6.iii. Checklist of Things to Achieve before a Successful Fork Can Occur**
 
 - Have at least one exchange available.
 - Have at least one desktop wallet available (will likely be in the client).
@@ -183,7 +183,7 @@ The main goal of the first bitcoin spinoff will be to allow bitcoin to scale saf
 
 ---
 
-###6. Future Objectives
+###7. Future Objectives
 
 1. Create a Bitcoin implementation written from scratch to clean the code up and function as the new reference client.  An effort could be made parallel to the actual phylomemetic evolution of Bitcoin to try to “catch up” in terms of documenting existing requirements and design, by integrating these dispersed parts of the tree, or alternatively, attempting to construct a clean formal specification of the system from scratch based on the inputs and knowledge that the phylomemetic process has delivered.
 
@@ -191,9 +191,9 @@ The main goal of the first bitcoin spinoff will be to allow bitcoin to scale saf
 
 ---
 
-###7. Risks
+###8. Risks
 
-**7.i. Attacks**
+**8.i. Attacks**
 
 - DDOS attacks against nodes.
 - DDOS attacks against exchanges.
@@ -204,25 +204,25 @@ The main goal of the first bitcoin spinoff will be to allow bitcoin to scale saf
 - 51% attacks.
 - Empty block attacks.
 
-**7.ii. Lack of Support**
+**8.ii. Lack of Support**
 
 - Lack of support from users, miners, investors, businesses, developers, exchanges.
 
-**7.iii. Bugs**
+**8.iii. Bugs**
 
 - Obviously every effort will be put towards making sure any software that is released for use but every software has a risk of having bugs in the code. Bugs could range anywhere between minor to major.
 
 
-###8. Support for Business Implementations
+###9. Support for Business Implementations
 
 Support for businesses wanting to implement a bitcoin spinoff. Forks designed with adequate documentation to make implementation by businesses easier.
 
 ---
 
-###9. Expenses & Funding
+###10. Expenses & Funding
 
 
-#####9.i. Project Expenses
+#####10.i. Project Expenses
 
 - Dev funding
 - Slack
@@ -230,7 +230,7 @@ Support for businesses wanting to implement a bitcoin spinoff. Forks designed wi
 - Education Material
 
 
-#####9.ii. Project Funding Ideas
+#####10.ii. Project Funding Ideas
 
 - Donations
 - Client transaction fees.
@@ -238,13 +238,13 @@ Support for businesses wanting to implement a bitcoin spinoff. Forks designed wi
 
 ---
 
-###10. Decentralisation of Communication Channels
+###11. Decentralisation of Communication Channels
 
 One key failure within the bitcoin community in recent years has been the centralisation of information and information exchange. Knowledge is power and whoever controls the main communication channels can control the narrative right now.
 
 ---
 
-###11. Definitions
+###12. Definitions
 
 It should be made clear that there is no such thing as an ‘official’ definition. These definitions are the ones that we feel are most logical and representative.
 
@@ -258,7 +258,7 @@ It should be made clear that there is no such thing as an ‘official’ definit
 
 ---
 
-###12. FAQ
+###13. FAQ
 
 Have any other questions about our project? Ask on our subreddit.
 
@@ -298,7 +298,7 @@ A hard fork is hard but necessary. After the first fork is executed, we expect t
 
 ---
 
-###13. Contribute
+###14. Contribute
 
 
 Calling all devs and non-devs alike: Help us bring Bitcoin to the world!
