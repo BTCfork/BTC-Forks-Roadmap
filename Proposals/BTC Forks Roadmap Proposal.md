@@ -43,7 +43,7 @@ We are a group of Bitcoin participants forking Bitcoin back to its original visi
 
 Our mission is simple: to advance Bitcoin scaling while making a powerful statement on governance by executing a successful hardfork spinoff of the Bitcoin network and facilitating a process that allow further spinoffs in the future..
 
-The Bitcoin experiment has not failed. It's just getting started!
+The Bitcoin experiment has not failed. It is only just getting started!!
 
 ---
 
