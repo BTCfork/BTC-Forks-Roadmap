@@ -94,10 +94,10 @@ Turning bitcoin development into an evolutionary system where progress is market
 
 The consensus abstraction layers are a way of assessing and tracking changes to a cryptocurrency made by developers. These changes may be the general principles that the participants follow, the consensus logic that the network follows or specific changes in the code of an implementation. Use of the consensus abstraction layers will allow participants to hold other participants to account within the ecosystem and will reinforce the ability for users to consent to the network(s) they are using. If an implementation/code change is made that is not inline with the current abstraction layers of that cryptocurrency then this implementation is considered to be forked and the type of fork is dictated by the CAL that the fork has taken place on.
 
-		CAL0 - Freedom of Choice
+		CAL0 - Coercionless
 		CAL1 - Constitutional Principles
 		CAL2 - Consensus Logic
-		CAL3 - Everything Else
+		CAL3 - Clients
 
 
 [PLACEHOLDER LINK]()
