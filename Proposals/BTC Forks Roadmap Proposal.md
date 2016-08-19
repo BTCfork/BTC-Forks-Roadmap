@@ -91,7 +91,7 @@ Developers, miners, investors and nodes should all keep each other in check thro
 
 **5.ii. Bitcoin Evolutionary Processes (BEP)**
 
-Turning bitcoin development into an evolutionary system where progress is market driven rather than driven by a select few ‘official’ developers. The bitcoin evolutionary process is made up of three parts. The first part is the **Consensus Abstraction Layers**. The second part is the **Accelerated Phylomemetic Tree Development**. The third part is the **Implementation Readiness Levels**. Each part is designed to solve a different problem in bitcoin currently.
+Turning bitcoin development into an evolutionary system where progress is market driven rather than driven by a select few ‘official’ developers. The bitcoin evolutionary process is made up of three parts. The first part is the **Consensus Abstraction Layers**. The second part is the **Accelerated Concept Development**. The third part is the **Implementation Readiness Levels**. Each part is designed to solve a different problem in bitcoin currently.
 
 
 **5.iii. Consensus Abstraction Layers (CAL)**
