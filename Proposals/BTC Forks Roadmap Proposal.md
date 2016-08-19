@@ -133,6 +133,7 @@ The community, incl. development teams, would be able to accompany an open devel
 
 [https://zolotarev.fd.cvut.cz/ma/ctrl.php?act=show,file,9727](https://zolotarev.fd.cvut.cz/ma/ctrl.php?act=show,file,9727)
 [http://www.win.tue.nl/~wstomv/edu/2ip30/references/smart-requirements.pdf](http://www.win.tue.nl/~wstomv/edu/2ip30/references/smart-requirements.pdf)
+
 [PLACEHOLDER LINK]()
 
 ---
@@ -154,6 +155,7 @@ The following section outlines how the maturity of a proposal could be described
 		IRL6 - System Test, Launch & Operations - Public test phase on test network of existing system, with clear test plan and quality gates to move to next phase: public test on main network. Public test on main network with clear warning that this is a test ("play money"), and should not be treated as actual currency by anyone. Active steps to minimize detrimental impacts on the existing operational network (non-aggression principle). After final validation, production release, and move to operational maintenance.
 
 [http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html](http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html)
+
 [PLACEHOLDER LINK]()
 
 ---
