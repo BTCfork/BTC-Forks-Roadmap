@@ -219,7 +219,7 @@ Support for businesses wanting to implement a bitcoin spinoff. Forks designed wi
 
 ---
 
-###10. Expenses & Funding
+###10. Expenses and Funding
 
 
 #####10.i. Project Expenses
