@@ -9,31 +9,31 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 1. [Contents](#1-contents)
 2. [Introduction](#2-introduction)
-3. Goals of the Project
-4. Rough Schedule
-5. Governance
+3. [Goals of the Project](#3-goals-of-the-project)
+4. [Rough Schedule](#4-rough-schedule)
+5. [Governance](#5-governance)
   1. Summary
   2. Bitcoin Evolutionary Process (BEP)
   3. Consensus Abstraction Layers (CAL)
   4. Accelerated Phylomemetic Tree Development
   5. Implementation Readiness Levels
-6. The First Spinoff
+6. [The First Spinoff](#6-the-first-spinoff)
   1. Goals
   2. Process to Launch
   3. Checklist of Things to Achieve before a Successful Fork Can Occur
-7. Future Objectives
-8. Risks
+7. [Future Objectives](#7-future-objectives)
+8. [Risks](#8-risks)
   1. Attacks
   2. Lack of Support
   3. Bugs
-9. Support for Business Implementations
-10. Expenses and Funding
+9. [Support for Business Implementations](#9-support-for-business-implementations)
+10. [Expenses and Funding](#10-expenses-and-funding)
   1. Project Expenses
   2. Project Funding Ideas
-11. Decentralisation of Communication Channels
-12. Definitions
-13. FAQ
-14. Contribute
+11. [Decentralisation of Communication Channels](#11-decentralisation-of-communication-channels)
+12. [Definitions](#12-definitions)
+13. [FAQ](#13-faq)
+14. [Contribute](#14-contribute)
 
 ---
 
