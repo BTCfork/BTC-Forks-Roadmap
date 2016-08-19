@@ -81,10 +81,11 @@ Bitcoin in its essence is a social system. A way of arranging the interactions b
 
 Development of bitcoin through an evolutionary process will allow the best ideas to succeed and the worst ideas to fail. Allowing people to freely chose which version of a cryptocurrency they want to use is key to making this happen. Participants currently have only one choice if they disagree strongly with the current development; exit bitcoin completely. It is far too binary as it means price is only a reasonably good signal in the long-term, at which point it may already be too late to fix any problems. Giving participants a choice to support another 'version' of bitcoin is creating a very direct short-term and long-term signal of what the best approach is.
 
-A decentralised system works best when all its components are in [equilibrium](http://www.bitcoinwednesday.com/wp-content/uploads/2016/02/Bitcoins-Incentive-Structure.pdf).
+A decentralised system works best when all its components are in equilibrium.
 
 Developers, miners, investors and nodes should all keep each other in check through their own selfish interests. Currently the bitcoin developers have the majority share of power in this system as they are advocating against freedom of choice. Numerous attacks from various angles have been made to stop participants from having the freedom to choose the software they run. Collusion between the miners and main developers of bitcoin has made it so that investors, nodes and users have only one option to voice opposition, and that is to leave the bitcoin economy entirely. This is a very ineffective way of signalling to the miners and developers that their needs are not being met, because new participants may be joining all the time and may be replacing participants who have exited. If the bitcoin economy and its participants are given freedom of choice to choose which ever version of bitcoin suits their needs best then participants are far less likely to exit the ecosystem entirely, and therefore the total market cap of bitcoin as a collection of systems is likely to rise (although some versions will fail and some will succeed).
 
+[http://www.bitcoinwednesday.com/wp-content/uploads/2016/02/Bitcoins-Incentive-Structure.pdf](http://www.bitcoinwednesday.com/wp-content/uploads/2016/02/Bitcoins-Incentive-Structure.pdf)
 ---
 
 **5.ii. Bitcoin Evolutionary Processes (BEP)**
@@ -124,18 +125,17 @@ Nevertheless, it seems that such a tree-based evolution process could be applied
 Once some points in this tree have reached sufficient maturity in terms of completeness and consistency, development teams might decide to 'adopt' them and see them through to implementation and release. The teams could “tag” the nodes in the concept tree which correspond to the requirements & design which they are targeting, making it possible to have an overview of Bitcoin evolution as a whole.
 
 Proposed requirements and design elements should be formulated according to engineering best practices, i.e. they should strive to be complete, consistent, traceable, verifiable etc.
-[https://zolotarev.fd.cvut.cz/ma/ctrl.php?act=show,file,9727](https://zolotarev.fd.cvut.cz/ma/ctrl.php?act=show,file,9727)
-[http://www.win.tue.nl/~wstomv/edu/2ip30/references/smart-requirements.pdf](http://www.win.tue.nl/~wstomv/edu/2ip30/references/smart-requirements.pdf)
 
 Since it would be infeasible to create a prerequisite for elaboration of complete, consistent requirements and design of the existing system (a moving target), we propose that changes can be specified in isolation and discussed by experts based on their body of knowledge of various implementations and use cases. In this way, the concept tree would evolve partial specifications which are consistent in themselves, and could later be integrated to form a more complete specification picture of the entire system.
 
 The community, incl. development teams, would be able to accompany an open development process through various levels of implementation maturity. In fact, the closer to deployment, the more public the process would need to be, to allow sufficient time for verification and validation. The end result would be solid requirements, traceable to design, which in turn would be traceable to code which should be suitably covered by tests, which the public could independently verify and validate.
 
+[https://zolotarev.fd.cvut.cz/ma/ctrl.php?act=show,file,9727](https://zolotarev.fd.cvut.cz/ma/ctrl.php?act=show,file,9727)
+[http://www.win.tue.nl/~wstomv/edu/2ip30/references/smart-requirements.pdf](http://www.win.tue.nl/~wstomv/edu/2ip30/references/smart-requirements.pdf)
+[PLACEHOLDER LINK]()
 ---
 
 **5.v. Implementation Readiness Levels**
-
-[http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html](http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html)
 
 The following section outlines how the maturity of a proposal could be described in terms of 'Implementation Readiness Levels'. The IRLs are a method of improving the quality and security of the code released and implemented into the economy. They also offer participants in the network a measure of the maturity of a technology.
 
@@ -151,6 +151,8 @@ The following section outlines how the maturity of a proposal could be described
 			↓
 		IRL6 - System Test, Launch & Operations - Public test phase on test network of existing system, with clear test plan and quality gates to move to next phase: public test on main network. Public test on main network with clear warning that this is a test ("play money"), and should not be treated as actual currency by anyone. Active steps to minimize detrimental impacts on the existing operational network (non-aggression principle). After final validation, production release, and move to operational maintenance.
 
+[http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html](http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html)
+[PLACEHOLDER LINK]()
 ---
 
 ###6. The First Spinoff
