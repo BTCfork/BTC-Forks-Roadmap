@@ -86,6 +86,7 @@ A decentralised system works best when all its components are in equilibrium.
 Developers, miners, investors and nodes should all keep each other in check through their own selfish interests. Currently the bitcoin developers have the majority share of power in this system as they are advocating against freedom of choice. Numerous attacks from various angles have been made to stop participants from having the freedom to choose the software they run. Collusion between the miners and main developers of bitcoin has made it so that investors, nodes and users have only one option to voice opposition, and that is to leave the bitcoin economy entirely. This is a very ineffective way of signalling to the miners and developers that their needs are not being met, because new participants may be joining all the time and may be replacing participants who have exited. If the bitcoin economy and its participants are given freedom of choice to choose which ever version of bitcoin suits their needs best then participants are far less likely to exit the ecosystem entirely, and therefore the total market cap of bitcoin as a collection of systems is likely to rise (although some versions will fail and some will succeed).
 
 [http://www.bitcoinwednesday.com/wp-content/uploads/2016/02/Bitcoins-Incentive-Structure.pdf](http://www.bitcoinwednesday.com/wp-content/uploads/2016/02/Bitcoins-Incentive-Structure.pdf)
+
 ---
 
 **5.ii. Bitcoin Evolutionary Processes (BEP)**
@@ -133,6 +134,7 @@ The community, incl. development teams, would be able to accompany an open devel
 [https://zolotarev.fd.cvut.cz/ma/ctrl.php?act=show,file,9727](https://zolotarev.fd.cvut.cz/ma/ctrl.php?act=show,file,9727)
 [http://www.win.tue.nl/~wstomv/edu/2ip30/references/smart-requirements.pdf](http://www.win.tue.nl/~wstomv/edu/2ip30/references/smart-requirements.pdf)
 [PLACEHOLDER LINK]()
+
 ---
 
 **5.v. Implementation Readiness Levels**
@@ -153,6 +155,7 @@ The following section outlines how the maturity of a proposal could be described
 
 [http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html](http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html)
 [PLACEHOLDER LINK]()
+
 ---
 
 ###6. The First Spinoff
