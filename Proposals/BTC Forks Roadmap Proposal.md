@@ -7,8 +7,8 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 ###1. Contents
 
-1. [Contents](#contents)
-2. [Introduction](#introduction)
+1. [Contents](#1-contents)
+2. [Introduction](#2-introduction)
 3. Goals of the Project
 4. Rough Schedule
 5. Governance
