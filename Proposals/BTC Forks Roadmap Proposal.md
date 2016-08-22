@@ -142,17 +142,35 @@ The community, incl. development teams, would be able to accompany an open devel
 
 The following section outlines how the maturity of a proposal could be described in terms of 'Implementation Readiness Levels'. The IRLs are a method of improving the quality and security of the code released and implemented into the economy. They also offer participants in the network a measure of the maturity of a technology.
 
-		IRL1 - Basic Technology Research - Ideas, observations, napkin drawings, good problem descriptions, solution suggestion blog posts, concept papers without a need for empirical data or proof-of-concept implementation.
-			↓
-		IRL2 - Research to Prove Feasibility - Research (analysis + experimental implementations yielding empirical data), published papers. No need for formal specification of requirements, design or verification methods. Peer review at research level.
-			↓
-		IRL3 - Technology Development - Research elements turned into module implementations, either from scratch or based on existing prototypes.
-			↓
-		IRL4 - Technology Demonstration - Able to demonstrate limited functionality in a public or private test network (testnet).
-			↓
-		IRL5 - System/Subsystem Development - Develop a public fork/spin-off system based on an existing production system (which could be a previous spin-off) by producing a delta of system/subsystem requirements and associated design, implementation, tests and verification results
-			↓
-		IRL6 - System Test, Launch & Operations - Public test phase on test network of existing system, with clear test plan and quality gates to move to next phase: public test on main network. Public test on main network with clear warning that this is a test ("play money"), and should not be treated as actual currency by anyone. Active steps to minimize detrimental impacts on the existing operational network (non-aggression principle). After final validation, production release, and move to operational maintenance.
+```
+IRL1 - Basic Technology Research - Ideas, observations, napkin drawings, good
+problem descriptions, solution suggestion blog posts, concept papers without a
+need for empirical data or proof-of-concept implementation.
+ ↓
+IRL2 - Research to Prove Feasibility - Research (analysis + experimental
+implementations yielding empirical data), published papers. No need for formal
+specification of requirements, design or verification methods. Peer review at
+research level.
+ ↓
+IRL3 - Technology Development - Research elements turned into module
+implementations, either from scratch or based on existing prototypes.
+ ↓
+IRL4 - Technology Demonstration - Able to demonstrate limited functionality in a
+public or private test network (testnet).
+ ↓
+IRL5 - System/Subsystem Development - Develop a public fork/spin-off system
+based on an existing production system (which could be a previous spin-off) by
+producing a delta of system/subsystem requirements and associated design,
+implementation, tests and verification results
+ ↓
+IRL6 - System Test, Launch & Operations - Public test phase on test network of
+existing system, with clear test plan and quality gates to move to next phase:
+public test on main network. Public test on main network with clear warning that
+this is a test ("play money"), and should not be treated as actual currency by
+anyone. Active steps to minimize detrimental impacts on the existing operational
+network (non-aggression principle). After final validation, production release,
+and move to operational maintenance.
+```
 
 [http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html](http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html)
 
