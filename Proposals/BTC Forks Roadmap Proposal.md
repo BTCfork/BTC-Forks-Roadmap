@@ -98,10 +98,9 @@ Turning bitcoin development into an evolutionary system where progress is market
 
 The consensus abstraction layers are a way of assessing and tracking changes to a cryptocurrency made by developers. These changes may be the general principles that the participants follow, the consensus logic that the network follows or specific changes in the code of an implementation. Use of the consensus abstraction layers will allow participants to hold other participants to account within the ecosystem and will reinforce the ability for users to consent to the network(s) they are using. If an implementation/code change is made that is not inline with the current abstraction layers of that cryptocurrency then this implementation is considered to be forked and the type of fork is dictated by the CAL that the fork has taken place on.
 
-		CAL0 - Coercionless
-		CAL1 - Constitutional Principles
-		CAL2 - Consensus Logic
-		CAL3 - Clients
+<p align="center">
+  <img src="http://i.imgur.com/AVQRBKP.png"/>
+</p>
 
 
 [PLACEHOLDER LINK]()
@@ -142,17 +141,9 @@ The community, incl. development teams, would be able to accompany an open devel
 
 The following section outlines how the maturity of a proposal could be described in terms of 'Implementation Readiness Levels'. The IRLs are a method of improving the quality and security of the code released and implemented into the economy. They also offer participants in the network a measure of the maturity of a technology.
 
-		IRL1 - Basic Technology Research - Ideas, observations, napkin drawings, good problem descriptions, solution suggestion blog posts, concept papers without a need for empirical data or proof-of-concept implementation.
-			↓
-		IRL2 - Research to Prove Feasibility - Research (analysis + experimental implementations yielding empirical data), published papers. No need for formal specification of requirements, design or verification methods. Peer review at research level.
-			↓
-		IRL3 - Technology Development - Research elements turned into module implementations, either from scratch or based on existing prototypes.
-			↓
-		IRL4 - Technology Demonstration - Able to demonstrate limited functionality in a public or private test network (testnet).
-			↓
-		IRL5 - System/Subsystem Development - Develop a public fork/spin-off system based on an existing production system (which could be a previous spin-off) by producing a delta of system/subsystem requirements and associated design, implementation, tests and verification results
-			↓
-		IRL6 - System Test, Launch & Operations - Public test phase on test network of existing system, with clear test plan and quality gates to move to next phase: public test on main network. Public test on main network with clear warning that this is a test ("play money"), and should not be treated as actual currency by anyone. Active steps to minimize detrimental impacts on the existing operational network (non-aggression principle). After final validation, production release, and move to operational maintenance.
+
+
+![IRLs](https://raw.githubusercontent.com/BTCfork/BEP_documentation/master/concept/mapping_NASA_TRLs_to_Bitcoin_development/Technological_Readiness_Levels_and_Bitcoin.png)
 
 [http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html](http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html)
 
