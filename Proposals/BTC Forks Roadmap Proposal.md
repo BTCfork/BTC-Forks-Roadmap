@@ -182,7 +182,7 @@ This will cover the CALs etc.
 
 **8.iii. Bugs**
 
-- Obviously every effort will be put towards making sure any software that is released for use but every software has a risk of having bugs in the code. Bugs could range anywhere between minor to major.
+- Every effort will be put towards making sure any software that is released for use is robust and free from issues, but all software runs the risk of having bugs in the code. Bugs could range anywhere from minor to major. We will use Github's issue tracker or a similar service to report bugs and discuss fixes in an attempt to streamline the debugging process.
 
 
 ###9. Support for Business Implementations
