@@ -52,7 +52,7 @@ Developers, miners, investors and nodes should all keep each other in check thro
 
 While there are many different proposals on how to solve this problem, most solutions boil down to one of two solutions. One solution is to change the economic model of bitcoin so that the bitcoin network does not scale much further on-chain, but rather exra layers are developed on top of the bitcoin network. These extra layers would connect to bitcoin for security but would not have the same security model of bitcoin. The Lightning is an example of a layer 2 network. This solution could be boiled down to "Bitcoin: An Electronic Settlement Network". Another solution is to allow the bitcoin network to scale on-chain by allowing more transactions to happen directly on the bitcoin network. This solution would keep the economic model of bitcoin that has worked over the past 7 years and would extend it to the future. "This solution can be boiled down to "Bitcoin: A Peer-to-Peer Electronic Cash Network for Payments and Settlement Transactions"
 
-Currently, the development of the bitcoin reference client is done by the group of bitcoin developers called "Core". While there are various other smaller development teams that offer their own bitcoin clients, the Core developers control the development of the client that most network participants are aware of. The Core developers of bitcoin have decided to use the solution of "Bitcoin: An Electronic Settlement Network". A significant (although not necessarily a majority) number of the network participants do not feel that this solution is the best way forward.
+Currently, the development of the bitcoin reference client is done by the group of bitcoin developers calling themselves "Core". While there are various other smaller development teams that offer their own bitcoin clients, the Core developers control the development of the client that most network participants are aware of. The Core developers of bitcoin have decided to use the solution of "Bitcoin: An Electronic Settlement Network". A significant (although not necessarily a majority) number of the network participants do not feel that this solution is the best way forward.
 
 **Reasoning for Not Choosing the Opposing Solution**
 
@@ -154,6 +154,14 @@ Support of the initial and any further forks through the creation of community r
 1. Create a Bitcoin implementation written from scratch to clean the code up and function as the new reference client.  An effort could be made parallel to the actual phylomemetic evolution of Bitcoin to try to “catch up” in terms of documenting existing requirements and design, by integrating these dispersed parts of the tree, or alternatively, attempting to construct a clean formal specification of the system from scratch based on the inputs and knowledge that the phylomemetic process has delivered.
 
 2. Modularise the reference client so that the functions of being a node and submitting transaction are separate. This will allow easier development of clients with various features.
+
+3. Work on an objective description of the fundamental principles that underlie Bitcoin's evolution as a technology.
+This will cover the CALs etc.
+
+4. Work on elaborating a (subjective) set of constitutional principles that the community supporting the solution "Bitcoin: A Peer-to-Peer Electronic Cash Network for payments and settlement transactions" can agree on. This will require conducting a constitution-forming process, starting from the already existing inputs (Satoshi's confirmed writings, principles extolled at Satoshi's Roundtable workshop, etc.)
+
+5. Work with industry to develop a Bitcoin Industry Code of Conduct or Ethical Code that lines up with the constitutional principles, but puts them in practical context. This document can provide guidance on conduct and best practices for miners, pools, exchanges, software development houses, academic researchers etc.
+
 
 ##8. Risks
 
